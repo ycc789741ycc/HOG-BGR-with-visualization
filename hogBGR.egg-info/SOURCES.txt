@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hogBGR/HOG.py
+hogBGR/HOGvisualized.py
+hogBGR/SampleCode.py
+hogBGR/__init__.py
+hogBGR/util.py
+hogBGR.egg-info/PKG-INFO
+hogBGR.egg-info/SOURCES.txt
+hogBGR.egg-info/dependency_links.txt
+hogBGR.egg-info/top_level.txt

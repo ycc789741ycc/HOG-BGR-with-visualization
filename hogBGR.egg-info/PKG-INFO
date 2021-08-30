@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: hogBGR
+Version: 0.0.1
+Summary: HOG feature descriptor with visualization
+Home-page: https://github.com/ycc789741ycc/HOG-BGR-with-visualization
+Author: Yoshi
+Author-email: yoshi4868686@gmail.com
+License: UNKNOWN
+Project-URL: Source Code, https://github.com/ycc789741ycc/HOG-BGR-with-visualization
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+
