@@ -1,7 +1,7 @@
 ﻿# HOG-BGR-with-visualization
 HOG feature descriptor, the kind of feature transform before we put our image into SVM or NN.  
   
-In this library, I split hog feature into BGR channel respectively, it's a little different from hog in skimage, but this library still support gray scale image.  
+In this API, I split hog feature into BGR channel respectively, it's a little different from hog in skimage, but this library still support gray scale image.  
   
 Furthermore, due to hog's performance has some relationship with tuning parameters, so this repository provides hog visualization both before and after doing block normalization.
 
