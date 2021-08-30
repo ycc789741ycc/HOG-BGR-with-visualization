@@ -50,7 +50,7 @@ util.BlockNormaliztionHOG_Show(img,one_cell=True)
 > Below shows hog image in each cell of blocks. (First method would only show first cell of blocks)  
 <img src=https://github.com/ycc789741ycc/HOG-BGR-with-visualization/blob/master/READMEpics/blocknorm.png alt="Cover" width="200%"/>  
 
-### HOG without block normaliztion
+### HOG without block normalization
 > Let's create a 16x16 (pixels) cell hog image.  
 ```
 img = cv2.imread(r'hogBGR/example/rose.png')
