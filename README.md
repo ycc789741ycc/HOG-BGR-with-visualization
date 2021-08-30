@@ -2,9 +2,10 @@
 HOG feature descriptor, a kind of feature transform before we put our image into SVM or NN.  
   
 In this API, I split hog feature into BGR channel respectively, it's a little different from hog in skimage, but this API still support grayscale image.  
+This API divides orients of gradient into 9 bins and each bin represent 0 20 40 60 ... 160.  
   
-Furthermore, due to hog's performance has some relationship with tuning parameters, so this repository provides hog visualization both before and after doing block normalization.
-
+Furthermore, due to hog's performance has some relationship with tuning parameters, so this repository provides hog visualization both before and after doing block normalization. 
+  
 ## Environment
 Python>=3.9.1  
 numpy>=1.20.0  
